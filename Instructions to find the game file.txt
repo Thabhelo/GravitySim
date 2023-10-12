@@ -1,0 +1,12 @@
+from right here:
+
+Assets > Scenes > {
+
+Position: right on top
+
+size:36kb,
+
+name:R219289W_Princiloo_Ndlovu_Scene1.unity
+
+}
+

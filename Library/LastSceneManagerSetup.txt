@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/R219289W_Princiloo_Ndlovu_Scene1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
