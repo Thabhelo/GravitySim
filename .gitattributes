@@ -1,8 +1,12 @@
 # Set text files to use LF line endings
-*.txt text eol=lf
+*.txt text eol=crlf
+*.html text eol=crlf
 
 # Treat Unity scene files as binary
 Assets/Scenes/*.unity -text
 
 # Treat Unity prefab files as binary
 Assets/Enemy.prefab -text
+
+# Set all files with a specific extension to use LF line endings
+*.md text eol=lf
